@@ -15,6 +15,8 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+//add auth layer
+
 /*
 |--------------------------------------------------------------------------
 | Application Routes
