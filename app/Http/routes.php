@@ -17,6 +17,8 @@ Route::get('/', function () {
 
 //add auth layer
 
+// add reporting
+
 /*
 |--------------------------------------------------------------------------
 | Application Routes
